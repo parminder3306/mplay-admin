@@ -1,0 +1,1 @@
+<?php $conn = new PDO('mysql:host=localhost; dbname=megaplay_app','megaplay_megaplay','parminder123@'); ?>
